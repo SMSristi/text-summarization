@@ -4,3 +4,4 @@ gradio
 pandas
 matplotlib
 openpyxl
+seaborn
